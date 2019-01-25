@@ -1,0 +1,71 @@
+{
+  "id": 1546,
+  "title": "You've Come a Long Way, Baby",
+  "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/YouveComeALongWayBaby2.jpg/220px-YouveComeALongWayBaby2.jpg",
+  "artist": {
+    "id": 1885,
+    "name": "Fatboy Slim"
+  },
+  "tracks": [
+    {
+      "title": "Right Here, Right Now",
+      "hidden": false
+    },
+    {
+      "title": "The Rockafeller Skank",
+      "hidden": false
+    },
+    {
+      "title": "Fucking in Heaven",
+      "hidden": false
+    },
+    {
+      "title": "Gangster Tripping",
+      "hidden": false
+    },
+    {
+      "title": "Build It Up - Tear It Down",
+      "hidden": false
+    },
+    {
+      "title": "Kalifornia",
+      "hidden": false
+    },
+    {
+      "title": "Soul Surfing",
+      "hidden": false
+    },
+    {
+      "title": "You're Not from Brighton",
+      "hidden": false
+    },
+    {
+      "title": "Praise You",
+      "hidden": false
+    },
+    {
+      "title": "Love Island",
+      "hidden": false
+    },
+    {
+      "title": "Acid 8000",
+      "hidden": false
+    },
+    {
+      "title": "Everybody Loves a Carnival",
+      "hidden": true
+    },
+    {
+      "title": "Michael Jackson",
+      "hidden": true
+    },
+    {
+      "title": "Next to Nothing",
+      "hidden": true
+    },
+    {
+      "title": "Es Paradis",
+      "hidden": true
+    }
+  ]
+}

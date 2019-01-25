@@ -1,0 +1,59 @@
+{
+  "id": 42,
+  "title": "Alpocalypse",
+  "cover": "https://fanart.tv/fanart/music/7746d775-9550-4360-b8d5-c37bd448ce01/albumcover/alpocalypse-505338c0038c3.jpg",
+  "artist": {
+    "id": 0,
+    "name": "Weird Al Yankovic"
+  },
+  "tracks": [
+    {
+      "title": "Perform This Way",
+      "hidden": false
+    },
+    {
+      "title": "CNR",
+      "hidden": false
+    },
+    {
+      "title": "TMZ",
+      "hidden": false
+    },
+    {
+      "title": "Skipper Dan",
+      "hidden": false
+    },
+    {
+      "title": "Polka Face",
+      "hidden": false
+    },
+    {
+      "title": "Craigslist",
+      "hidden": false
+    },
+    {
+      "title": "Party in the CIA",
+      "hidden": false
+    },
+    {
+      "title": "Ringtone",
+      "hidden": false
+    },
+    {
+      "title": "Another Tattoo",
+      "hidden": false
+    },
+    {
+      "title": "If That Isn't Love",
+      "hidden": false
+    },
+    {
+      "title": "Whatever You Like",
+      "hidden": false
+    },
+    {
+      "title": "Stop Forwarding That Crap to Me",
+      "hidden": false
+    }
+  ]
+}

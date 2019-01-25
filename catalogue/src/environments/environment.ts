@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'https://hardis-lyon-demo-music-library.s3.amazonaws.com/api-data'
+  apiUrl: './assets'
 };
 
 /*

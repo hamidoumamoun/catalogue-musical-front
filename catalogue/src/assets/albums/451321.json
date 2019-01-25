@@ -1,0 +1,67 @@
+{
+  "id": 451321,
+  "title": "The Black and White Album",
+  "cover": "https://fanart.tv/fanart/music/487bfd74-71bf-46dd-b89c-80b7a0f06f2f/albumcover/the-black-and-white-album-4fd51f06b628c.jpg",
+  "artist": {
+    "id": 4845136,
+    "name": "The Hives"
+  },
+  "tracks": [
+    {
+      "title": "Tick Tick Boom",
+      "hidden": false
+    },
+    {
+      "title": "Try It Again",
+      "hidden": false
+    },
+    {
+      "title": "You Got It All... Wrong",
+      "hidden": false
+    },
+    {
+      "title": "Well All Right!",
+      "hidden": false
+    },
+    {
+      "title": "Hey Little World",
+      "hidden": false
+    },
+    {
+      "title": "A Stroll Through Hive Manor Corridors",
+      "hidden": false
+    },
+    {
+      "title": "Won't Be Long",
+      "hidden": false
+    },
+    {
+      "title": "T.H.E.H.I.V.E.S.",
+      "hidden": false
+    },
+    {
+      "title": "Return the Favour",
+      "hidden": false
+    },
+    {
+      "title": "Giddy Up!",
+      "hidden": false
+    },
+    {
+      "title": "Square One Here I Come",
+      "hidden": false
+    },
+    {
+      "title": "You Dress Up for Armageddon",
+      "hidden": false
+    },
+    {
+      "title": "Puppet on a String",
+      "hidden": false
+    },
+    {
+      "title": "Fall Is Just Something Grownups Invented",
+      "hidden": true
+    }
+  ]
+}

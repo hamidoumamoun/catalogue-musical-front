@@ -1,0 +1,55 @@
+{
+  "id": 12597568456,
+  "title": "Halfway Between the Gutter and the Stars",
+  "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Fatboy_Slim_-_Halfway_Between_the_Gutter_and_the_Stars.jpg/220px-Fatboy_Slim_-_Halfway_Between_the_Gutter_and_the_Stars.jpg",
+  "artist": {
+    "id": 1885,
+    "name": "Fatboy Slim"
+  },
+  "tracks": [
+    {
+      "title": "Talking Bout My Baby",
+      "hidden": false
+    },
+    {
+      "title": "Star 69",
+      "hidden": false
+    },
+    {
+      "title": "Sunset (Bird of Prey)",
+      "hidden": false
+    },
+    {
+      "title": "Love Life",
+      "hidden": false
+    },
+    {
+      "title": "Ya Mama",
+      "hidden": false
+    },
+    {
+      "title": "Mad Flava",
+      "hidden": false
+    },
+    {
+      "title": "Retox",
+      "hidden": false
+    },
+    {
+      "title": "Weapon of Choice",
+      "hidden": false
+    },
+    {
+      "title": "Drop the Hate",
+      "hidden": false
+    },
+    {
+      "title": "Demons",
+      "hidden": false
+    },
+    {
+      "title": "Song for Shelter",
+      "hidden": false
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 12597568456,
+    "title": "Halfway Between the Gutter and the Stars",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Fatboy_Slim_-_Halfway_Between_the_Gutter_and_the_Stars.jpg/220px-Fatboy_Slim_-_Halfway_Between_the_Gutter_and_the_Stars.jpg",
+    "artist": {
+      "id": 1885,
+      "name": "Fatboy Slim"
+    }
+  },
+  {
+    "id": 42,
+    "title": "Alpocalypse",
+    "cover": "https://fanart.tv/fanart/music/7746d775-9550-4360-b8d5-c37bd448ce01/albumcover/alpocalypse-505338c0038c3.jpg",
+    "artist": {
+      "id": 78122,
+      "name": "Weird Al Yankovic"
+    }
+  },
+  {
+    "id": 451321,
+    "title": "The Black and White Album",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/B_and_W_album.png/220px-B_and_W_album.png",
+    "artist": {
+      "id": 4845136,
+      "name": "The Hives"
+    }
+  },
+  {
+    "id": 1546,
+    "title": "You've Come a Long Way, Baby",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/YouveComeALongWayBaby2.jpg/220px-YouveComeALongWayBaby2.jpg",
+    "artist": {
+      "id": 1885,
+      "name": "Fatboy Slim"
+    }
+  },
+  {
+    "id": 1421564,
+    "title": "Veni Vidi Vicious",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Veni_Vidi_Vicious.jpg/220px-Veni_Vidi_Vicious.jpg",
+    "artist": {
+      "id": 4845136,
+      "name": "The Hives"
+    }
+  }
+]
