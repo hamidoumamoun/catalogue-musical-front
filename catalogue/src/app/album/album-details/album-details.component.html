@@ -1,0 +1,18 @@
+<h2>Détail de l'album</h2>
+
+<mat-divider></mat-divider>
+
+<mat-card *ngIf="album">
+  <mat-card-header>
+    <mat-card-title>{{ album.title }}</mat-card-title>
+    <mat-card-subtitle>
+      {{ album.artist.name }}
+    </mat-card-subtitle>
+  </mat-card-header>
+  <img mat-card-image [src]="album.cover">
+  <mat-card-content>
+    <mat-list dense>
+      <mat-list-item *ngFor="let track of album.tracks"> {{ track.title}} ({{ track.hidden ? 'Piste caché' : 'Piste publique'}}) </mat-list-item>
+     </mat-list>
+  </mat-card-content>
+</mat-card>

@@ -4,13 +4,14 @@ import { CommonModule } from '@angular/common';
 import { AlbumRoutingModule } from './album-routing.module';
 import { AlbumListComponent } from './album-list/album-list.component';
 
-import { MatCardModule, MatButtonModule, MatDividerModule, MatIconModule, MatGridListModule } from '@angular/material';
+import { MatCardModule, MatButtonModule, MatListModule, MatDividerModule, MatIconModule, MatGridListModule } from '@angular/material';
 
 
 import { FlexLayoutModule } from '@angular/flex-layout';
+import { AlbumDetailsComponent } from './album-details/album-details.component';
 
 @NgModule({
-  declarations: [AlbumListComponent],
+  declarations: [AlbumListComponent, AlbumDetailsComponent],
   imports: [
     CommonModule,
     MatDividerModule,
@@ -19,6 +20,7 @@ import { FlexLayoutModule } from '@angular/flex-layout';
     MatButtonModule,
     MatGridListModule,
     FlexLayoutModule,
+    MatListModule,
     AlbumRoutingModule
   ]
 })

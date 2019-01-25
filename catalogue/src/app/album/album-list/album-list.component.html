@@ -14,7 +14,7 @@
     </mat-card-header>
     <img mat-card-image [src]="album.cover">
     <mat-card-actions>
-      <button mat-button routerLink="/albums" routerLinkActive="active">Détails</button>
+      <button mat-button [routerLink]="['/albums', album.id]">Détails</button>
     </mat-card-actions>
   </mat-card>
 </div>
