@@ -9,9 +9,10 @@ import { MatCardModule, MatButtonModule, MatListModule, MatDividerModule, MatIco
 
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { AlbumDetailsComponent } from './album-details/album-details.component';
+import { ArtistListComponent } from './artist-list/artist-list.component';
 
 @NgModule({
-  declarations: [AlbumListComponent, AlbumDetailsComponent],
+  declarations: [AlbumListComponent, AlbumDetailsComponent, ArtistListComponent],
   imports: [
     CommonModule,
     MatDividerModule,

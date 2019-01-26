@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { AlbumService } from '../../core';
-import { AlbumSummary } from 'src/app/shared';
+import { AlbumSummary, ArtistSummary } from 'src/app/shared';
 
 @Component({
   selector: 'app-album-list',
@@ -10,15 +10,18 @@ import { AlbumSummary } from 'src/app/shared';
 export class AlbumListComponent implements OnInit {
 
   albums: AlbumSummary[];
+  artists:ArtistSummary[];
 
   constructor(private albumService: AlbumService) { }
 
   ngOnInit() {
     // Appel à l'API pour charger les albums
     this.albumService.getAll().subscribe(
-      albums => this.albums = albums,
+      data => this.albums = data,
       error => console.log("Error")
     )
   }
+
+
 
 }
