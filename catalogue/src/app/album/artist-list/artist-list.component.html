@@ -9,8 +9,10 @@
   </thead>
   <tbody>
     <tr *ngFor="let artist of artists">
+      <a  [routerLink]="['/albums', getIdAlbumFromArtist(artist)]" class="sizelink">
       <td>{{artist.id}}</td>
-      <td> {{artist.name}}</td>
+      <td> {{artist.name}}</td>      
+      </a>
     </tr>
   </tbody>
 </table>

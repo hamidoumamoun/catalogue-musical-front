@@ -1,8 +1,15 @@
 th,td {
     border: 1px solid black;
+    
   }
-  table {
+  table{
     table-layout: auto;
     width: 100%;  
   }
+
+  .sizelink{
+    width: 100%;
+  }
+
+
   

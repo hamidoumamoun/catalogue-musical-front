@@ -10,6 +10,7 @@ import { ArtistSummary, AlbumSummary } from 'src/app/shared';
 export class ArtistListComponent implements OnInit {
   artists: ArtistSummary[]=[];
   albums: AlbumSummary[];
+  idAlbum:number;
 
 
   constructor(private albumService: AlbumService) { 
@@ -31,4 +32,15 @@ getAllArtist(){
     this.artists.push(album.artist)
   });
 }
+
+
+getIdAlbumFromArtist(artist:ArtistSummary):number{
+this.albums.forEach(album => {
+  if(artist===album.artist){
+    this.idAlbum=album.id;
+  }
+  });
+ return this.idAlbum;
+}
+
 }
